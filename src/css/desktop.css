@@ -1,0 +1,34 @@
+nav {
+    justify-content: end;
+}
+
+.nav-text .material-symbols-outlined{
+    width: 0;
+    height: 0;
+    opacity: 0;
+}
+
+.container-search {
+    height: 20vh;
+}
+
+
+
+
+.button-container {
+    opacity: 100%;
+    
+}
+
+.button-container button {
+    margin: 18px 4px;
+    height: 36px;
+    text-align: center;
+    padding: 0 16px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 4px;
+    color:#bdc1c6;
+}
+
+
